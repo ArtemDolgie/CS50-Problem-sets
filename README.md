@@ -1,8 +1,2 @@
-# Deme-repo
-This repo was made for tutorial purposes 
-
-## Subheader 
-New text
-
-### Branching 
-New branch
+# My CS50 repository
+This repo was made for publishing my CS50 problem sets
