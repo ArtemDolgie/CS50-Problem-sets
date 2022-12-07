@@ -1,0 +1,23 @@
+sort1 uses: Bubble sort
+
+How do you know?:
+- sorted50000.txt was sorted only for 0,714s.
+- random50000.txt was sorted for 7,609s.
+- reversed50000.txt was sorted for 6,711s.
+In "Big O Notation" we can see that in the best scenario Bubble sort is Omega(n), but in every other scenario Bubble sort is equal to O(n^2).
+
+sort2 uses: Merge sort
+
+How do you know?:
+- sorted50000.txt was sorted only for 1,006s.
+- random50000.txt was sorted for 0,950s.
+- reversed50000.txt was sorted for 0,614s.
+In "Big O Notation" we can see that in every scenario Merge sort is equal to O(n log n).
+
+sort3 uses: Selection sort
+
+How do you know?:
+- sorted50000.txt was sorted only for 3,378s.
+- random50000.txt was sorted for 3,785s.
+- reversed50000.txt was sorted for 3,407s.
+In "Big O Notation" we can see that in every scenario Selection sort is equal to O(n^2).
